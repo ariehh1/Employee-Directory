@@ -7,7 +7,7 @@ import API from "./utils/API";
 
 function App() {
   return (
-    <div>
+    <div className="navbar">
       <Navbar />
       <FilterNav />
       <Table />
