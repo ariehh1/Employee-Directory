@@ -1,16 +1,16 @@
 import React from "react";
 import "./App.css";
-import Navbar from "./components/Navbar";
-import FilterNav from "./components/FilterNav";
-import Table from "./components/Table";
-import API from "./utils/API";
+import Main from "./components/Main";
+import Wrapper from "./components/Wrapper";
+import Header from "./components/Header";
 
 function App() {
   return (
-    <div className="navbar">
-      <Navbar />
-      <FilterNav />
-      <Table />
+    <div className="App">
+      <Wrapper>
+        <Header />
+        <Main />
+      </Wrapper>
     </div>
   );
 }
