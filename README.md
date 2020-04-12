@@ -1,4 +1,4 @@
-# [Employee-Directory]()
+# [Employee-Directory](https://ariehh1.github.io/Employee-Directory/)
 
 In this repository, I have built an Employee Directory utilizing a React Front-End. The application can sort by employee name alphabetically and filter your results by name. In creating a React application, it required me to break up the UI into different components and manage component state based off user input.
 
@@ -31,6 +31,7 @@ Please watch the below link for a demo of the Employee Directory:
 If I were to continue developing this application further, I would focus on adding more components for complexity and depth. Within the search navigation component, there could have been a search filter for specific email addresses that contain "Yahoo" for example. For an employee's date of birth, I would have developed that into a different componenet consisting of a year range to filter on.
 
 <h1>Github Pages Link:</h1>
+https://ariehh1.github.io/Employee-Directory/
 
 <h1>Contact Me:</h1>
 @ariehh1 - https://github.com/ariehh1
